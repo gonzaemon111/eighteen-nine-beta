@@ -1,1 +1,6 @@
-# eighteen-nine-beta
+# 18Nine
+
+```bash
+$ yarn
+$ yarn dev
+```
